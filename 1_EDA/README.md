@@ -4,7 +4,7 @@
 
 
 
-![Project 1 EDA Overview](\images\1_1_Project1_EDA.png)
+![Project 1 EDA Overview](..\images\1_1_Project1_EDA.png)
 
 This is a SQL project where I analysed the Data Engineering job market using real world job posting data.
 This project demonstrates my ability to **write production quality analytical SQL, design efficient queries and turn business questions into data-driven insights**
