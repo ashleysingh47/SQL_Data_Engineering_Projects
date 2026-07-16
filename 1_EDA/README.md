@@ -47,12 +47,12 @@ By querying across these interconnected tables I extracted insights about the de
 - **Version Control:** Git/GitHub for versioned SQL Scripts
 
 ## Analysis Overview
-- **[Top Demanded Skills](..\1_EDA\01_top_demanded_skills.sql)**
+- **[Top Demanded Skills](/1_EDA/01_top_demanded_skills.sql)**
 Identified the top 10 most in demand skills for South African Dat Engineer postions.
-- **[Top Paying Skills](..\1_EDA\02_top_paying_skills.sql)**
+- **[Top Paying Skills](/1_EDA/02_top_paying_skills.sql)**
 Analysed the 25 most high-paying skills with salary and the demand for the skills.
 
-- **[Optimal Skills](..\1_EDA\03_optimal_skills.sql)**
+- **[Optimal Skills](/1_EDA/03_optimal_skills.sql)**
 Calculates an optimal score using natural log of demand + median salary in order to identify the most valuable skills to learn.
 
 ### Key Insights
