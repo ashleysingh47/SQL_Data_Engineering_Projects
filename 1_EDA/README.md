@@ -21,9 +21,9 @@ This project demonstrates my ability to **write production quality analytical SQ
 
 Review the code below:
 
-- [01_top_demanded_skills.sql](..\1_EDA\01_top_demanded_skills.sql)
-- [02_top_paying_skills.sql](..\1_EDA\02_top_paying_skills.sql)
-- [03_optimal_skills.sql](..\1_EDA\03_optimal_skills.sql)
+- [01_top_demanded_skills.sql](/1_EDA/01_top_demanded_skills.sql)
+- [02_top_paying_skills.sql](/1_EDA/02_top_paying_skills.sql)
+- [03_optimal_skills.sql](/1_EDA/03_optimal_skills.sql)
 
 ## Problem and Context
 - **Most in-demand:** Which skills are most in-demand for data engineers in South Africa?
