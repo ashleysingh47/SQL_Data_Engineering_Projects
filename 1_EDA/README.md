@@ -32,7 +32,7 @@ Review the code below:
 
 This project analyzes a **Data Warehouse** which was built using a star schema design. Below is the structure:
 
-![Data WareHouse](/1_2_Data_Warehouse.png)
+![Data WareHouse](/images/1_2_Data_Warehouse.png)
 
 - The Fact table, `job_postings_fact` is the central table which contains job postings details like job title, location, salaries and dates.
 - The 2 dimension tables, `company_dim` and `skills_dim` had company details and the skills catalog respectfully.
