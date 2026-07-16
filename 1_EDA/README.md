@@ -4,7 +4,7 @@
 
 
 
-![Project 1 EDA Overview](\images\1_1_Project1_EDA.png)
+![Project 1 EDA Overview](/images/1_1_Project1_EDA.png)
 
 This is a SQL project where I analysed the Data Engineering job market using real world job posting data.
 This project demonstrates my ability to **write production quality analytical SQL, design efficient queries and turn business questions into data-driven insights**
@@ -32,7 +32,7 @@ Review the code below:
 
 This project analyzes a **Data Warehouse** which was built using a star schema design. Below is the structure:
 
-![Data WareHouse](..\images\1_2_Data_Warehouse.png)
+![Data WareHouse](/images/1_2_Data_Warehouse.png)
 
 - The Fact table, `job_postings_fact` is the central table which contains job postings details like job title, location, salaries and dates.
 - The 2 dimension tables, `company_dim` and `skills_dim` had company details and the skills catalog respectfully.
